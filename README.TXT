@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Τα αρχεία που βρίσκονται εκτός φακέλων τρέχουν ως ένα αυτόνομο πρόγραμμα.
+Τα αρχεία που βρίσκονται μέσα σε φακέλους είναι αυτοτελή και το καθένα 
+τρέχει μόνο του.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:PROJECT NOLA
+PURPOSE OF PROJECT:ΕΡΓΑΣΙΑ ΕΞΑΜΗΝΟΥ ΜΑΘΗΜΑΤΟΣ "ΤΕΧΝΟΛΟΓΙΑ ΛΟΓΙΣΜΙΚΟΥ"
+VERSION or DATE: V1.0, 03/06/2019
+
